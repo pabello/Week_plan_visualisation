@@ -1,0 +1,55 @@
+Monday: 23
+6.5 sleep
+3.0 others
+1.0 journeys
+2.0 eating
+10.5 studying
+0.0 socializing
+
+Tuesday: 25.5
+8.0 sleep
+2.0 others
+0.0 journeys
+1.5 eating
+14.0 studying
+0.0 socializing
+
+Wednesday: 23
+7.5 sleep
+2.0 others
+1.0 journeys
+1.0 eating
+10.5 studying
+1.0 socializing
+
+Thursday: 24.5
+8.0 sleeping
+3.0 others
+3.5 journeys
+1.5 eating
+5.0 studying
+3.5 socializing
+
+Friday: 23
+7.0 sleep
+3.0 others
+7.5 journeys
+2.0 eating
+0.0 studying
+3.5 socializing
+
+Saturday: 24.5
+8.0 sleep
+2.0 others
+6.5 journeys
+2.5 eating
+0.0 studying
+5.5 socializing
+
+Sunday: 23.5
+6.5 sleep
+3.5 others
+8.5 journeys
+1.5 eating
+0.0 studying
+3.5 socializing

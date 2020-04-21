@@ -27,10 +27,6 @@ class DayFrame {
   }
 
   void show() {
-    //pushMatrix();
-    //  translate(width/4, height/2);
-    //  //translate();  // placeholder
-    //  translate(0, -0.45*height);
       int longestLine = 0;
       
       textAlign(LEFT, TOP);

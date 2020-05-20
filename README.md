@@ -2,8 +2,8 @@
 
 ### A work for Data reporting and visualisation course
 
-#### The goal of this project was to visualise statistics on how I spent my time during a week of choice on a vector graphic.
-I also wanted to emphasise the sleep times during that week and that's what the right part of the visualisation presents.
+#### The goal of this project was to visualise statistics on how I spent my time during a week of choice and to emphasise on one of the activiteies. The output was supposed to be a vector graphic.
+My idea was to emphasise on the sleep times during that week and that's what the right part of the visualisation presents.
 
 I chose to create this visualisation in Processing because its relatively easy to build things with and I wanted some challenge in this task rather than frustration from using drawing tools.
 
@@ -62,4 +62,4 @@ To use the program you need to have **Processing** installed on your device. You
 Then you just place all the files in `calendar` folder, open calendar.pde with Processing and click *Run* button.
 
 ### Preview
-[Output image preview](/viz_image.png)
+![Output image preview](/viz_image.png)

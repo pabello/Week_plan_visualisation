@@ -9,9 +9,9 @@ I chose to create this visualisation in Processing because its relatively easy t
 
 #### What I have learned in this project is:
 - the power of value mapping functions and the convenience it gives you,
-- how to make this cool neon effect
-- different color schemes (mainly HSV)
-- that visualisations need to be *very* clear as other people may interpret it in a different way
+- how to make this cool neon effect,
+- different color schemes (mainly HSV),
+- that visualisations need to be *very* clear as other people may interpret it in a different way.
 
 # Run the project
 ## Input data
@@ -49,7 +49,7 @@ Sample:
 ```
 Monday:		  2.0 6.5
 Tuesday:	  1.0 8.0
-Wednesday:	2.5 7.5
+Wednesday:	  2.5 7.5
 Thursday:	  1.5 8.0
 Friday:		  3.5 7.0
 Saturday:	  2.0 8.0
@@ -59,6 +59,7 @@ Sunday: 	  2.5 6.5
 
 ## Usage
 To use the program you need to have **Processing** installed on your device. You can get it [here](https://processing.org/download/).
+
 Then you just place all the files in `calendar` folder, open calendar.pde with Processing and click *Run* button.
 
 ### Preview

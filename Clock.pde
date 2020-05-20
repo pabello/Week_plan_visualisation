@@ -98,7 +98,6 @@ class Clock {
       stroke(270, 1, 100, 0.5);
       rotate(radians(inviolableHours[0] * 30) - HALF_PI);
       line(0, 0, 0, radius/2 +15);
-      println(inviolableHours[1]);
       rotate(radians((inviolableHours[1] - inviolableHours[0]) * 30));
       line(0, 0, 0, radius/2 +15);
       

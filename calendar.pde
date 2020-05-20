@@ -20,7 +20,7 @@ void setup() { //<>//
   steps = 30;
   increment = 10;
   //img = loadImage("img/1858113.jpg");
-  img.resize(width, height);
+  //img.resize(width, height);
   //noLoop();
   
   String[] dayPlans = loadDayPlans("data.txt");
@@ -107,6 +107,7 @@ void drawDaysGraphs() {
     }
     
   popMatrix();
+  
   //if(steps == 50) steps = 10;
   //steps += increment;
   colorMode(RGB, 255, 255, 255, 100);
@@ -175,14 +176,10 @@ void draw() {
   clock.drawSleep(sleepTimes, dayNames);
   drawLegend();
   
-  //print(sleepTimes);
-  //for(Float[] times : sleepTimes)
-  //  for(float time : times)
-  //    println(time);
-  
   if(saveFrame) {
     endRecord();
     save("wizualizacja.png");
+    save("viz_image.png");
     saveFrame = false;
   }
 }
